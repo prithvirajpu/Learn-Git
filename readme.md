@@ -142,7 +142,7 @@
 
 ---
 
-## ✅ Best Practices
+## ✅ Best Practices.
 
 - Always write **meaningful commit messages**
 - Use **branches** for features and fixes
